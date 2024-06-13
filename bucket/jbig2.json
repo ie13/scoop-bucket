@@ -3,8 +3,8 @@
     "description": "This is an encoder for JBIG2.",
     "homepage": "https://github.com/anotatta/jbig2enc",
     "license": "Apache-ish licensed",
-    "url": "https://github.com/ie13/jbig2enc/releases/download/0.29/jbig2-windows.zip",
-    "hash": "a2d129eba1872f2f838d9e4dc07f09f2586aa69e4d8baab137cb3b6e8f5abfd4",
+    "url": "https://github.com/ie13/jbig2enc/releases/download/0.29/jbig2enc-0.29-win32.zip",
+    "hash": "91967bffd72f2d6a3ffcd0aff5257a99871ff660f749792a02b5fb2c4642f62c",
     "extract_dir": "jbig2",
     "bin": "jbig2.exe"
     }
